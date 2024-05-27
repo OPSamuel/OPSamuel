@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sammmmmmmmmmmmy&hide=PowerShell,Procfile&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OPSamuel&hide=PowerShell,Procfile&theme=tokyonight)
