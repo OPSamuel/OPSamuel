@@ -6,3 +6,10 @@
 <p><a href="https://github.com/OPSamuel/Fortnite-Maps">Fortnite Maps Discord Bot</a></p>
 <p><a href="https://github.com/OPSamuel/Offline-Notifier">Offline Notifier Discord Bot</a></p>
 <p><a href="https://github.com/OPSamuel/Python-Quiz">Python Quiz</a></p>
+
+<h3>Any issues with this bot or any of my other bots please DM me on discord:</h3>
+
+<ul>
+   <li>Username: opsamuelcc</li>
+   <li>ID: 574217755692236803</li>
+</ul>
