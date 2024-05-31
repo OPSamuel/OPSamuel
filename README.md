@@ -5,4 +5,4 @@
 <p>As you can see below here are some of my basic projects that I have uploaded. Any other things I find cool will be uploaded here.</p>
 <p><a href="https://github.com/OPSamuel/Fortnite-Maps">Fortnite Maps Discord Bot</a></p>
 <p><a href="https://github.com/OPSamuel/Offline-Notifier">Offline Notifier Discord Bot</a></p>
-<p><a href="Python-Quiz">Python Quiz</a></p>
+<p><a href="https://github.com/OPSamuel/Python-Quiz">Python Quiz</a></p>
